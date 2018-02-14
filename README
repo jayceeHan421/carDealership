@@ -1,0 +1,10 @@
+Domain: Car dealership
+Interface: Console
+Platform: .NET
+Language: C#
+
+Inputs: carInfo.JSON stored in the root directory. 
+
+For the purpose of this project I have to assume the input is the correct format from user. Normally I would build a GUI or Web interface, but due to time contraints on my end today, I did not have time for that. 
+
+To use the project, you need to install newtonsoft json through Nuget.  

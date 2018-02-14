@@ -1,0 +1,11 @@
+/Users/administrator/Work/carDealership/carDealership/bin/Debug/netcoreapp2.0/carDealership.deps.json
+/Users/administrator/Work/carDealership/carDealership/bin/Debug/netcoreapp2.0/carDealership.runtimeconfig.json
+/Users/administrator/Work/carDealership/carDealership/bin/Debug/netcoreapp2.0/carDealership.runtimeconfig.dev.json
+/Users/administrator/Work/carDealership/carDealership/bin/Debug/netcoreapp2.0/carDealership.dll
+/Users/administrator/Work/carDealership/carDealership/bin/Debug/netcoreapp2.0/carDealership.pdb
+/Users/administrator/Work/carDealership/carDealership/obj/Debug/netcoreapp2.0/carDealership.csprojResolveAssemblyReference.cache
+/Users/administrator/Work/carDealership/carDealership/obj/Debug/netcoreapp2.0/carDealership.csproj.CoreCompileInputs.cache
+/Users/administrator/Work/carDealership/carDealership/obj/Debug/netcoreapp2.0/carDealership.AssemblyInfoInputs.cache
+/Users/administrator/Work/carDealership/carDealership/obj/Debug/netcoreapp2.0/carDealership.AssemblyInfo.cs
+/Users/administrator/Work/carDealership/carDealership/obj/Debug/netcoreapp2.0/carDealership.dll
+/Users/administrator/Work/carDealership/carDealership/obj/Debug/netcoreapp2.0/carDealership.pdb
